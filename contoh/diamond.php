@@ -6,7 +6,7 @@ while(1){
   curl_setopt($ch, CURLOPT_URL, "https://api.indkota.com/System/Invite/rewarded_video");
   curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
   curl_setopt($ch, CURLOPT_POSTFIELDS, 
-"member_token=NjIwODk2NTMwOTM0ODEtLXx8LS1jMmFkY2JhNTYzZmFhYjVhODc3OTVhYWZmZTQxY2ZmNg==&device_id=37e3e8426595442e");
+"member_token=NjIwODk2NTYxMjQ2MjAtLXx8LS03MTg0MjEwMWJlMDI0ZjE3NTYxZWRjZDE0OWE2MWFmMA==&device_id=37e3e8426595442e");
   curl_setopt($ch, CURLOPT_POST, 1);
   curl_setopt($ch, CURLOPT_ENCODING, 'gzip, deflate');
 
